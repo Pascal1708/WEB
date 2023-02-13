@@ -31,7 +31,7 @@ p {
 }
 
   .jumbotron {
-      background-color: orangered;
+      background-color: darkblue;
       padding: 100px 0px;
       color: #fff;
       font-family: Montserrat, sans-serif;
@@ -44,7 +44,7 @@ p {
 
   }
   .bg-grey {
-      background-color: grey;
+      background-color: darkblue;
   }
   .button{
     background-color: #f4511e;
@@ -145,8 +145,8 @@ border-color: #f4511e;}
       color: #fff !important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
-      color: black !important;
-      background-color: orangered !important;
+      color: white !important;
+      background-color: darkblue !important;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
