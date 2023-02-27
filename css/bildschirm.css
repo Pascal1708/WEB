@@ -30,8 +30,10 @@ p {
     color: white;
 }
 
-  .jumbotron {
-      background-color: darkblue;
+ /* Hintergrund farbe auf dunkelblau geändert */
+
+.jumbotron {
+      background-color:darkblue;
       padding: 100px 0px;
       color: #fff;
       font-family: Montserrat, sans-serif;
@@ -50,8 +52,8 @@ p {
     background-color: #f4511e;
     font-size: large;
     color: #fff;
-
   }
+
   .logo-small {
       color: #f4511e;
       font-size: 50px;
@@ -148,6 +150,9 @@ border-color: #f4511e;}
       color: white !important;
       background-color: darkblue !important;
   }
+
+/* Hintergrund farbe auf dunkelblau geändert */
+
   .navbar-default .navbar-toggle {
       border-color: transparent;
       color: #fff !important;
