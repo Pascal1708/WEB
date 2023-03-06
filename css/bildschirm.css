@@ -28,6 +28,16 @@ body {
 
 p {
     color: white;
+    text-decoration: none;
+}
+
+p1 {
+    color: whitesmoke;
+    
+}
+
+p1:hover {
+background-color: red;
 }
 
  /* Hintergrund farbe auf dunkelblau geändert */
